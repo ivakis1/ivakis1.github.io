@@ -18,10 +18,16 @@
     background: #b4267b;
     color: white;
 }
-
+.boxdisabled{
+    background-color: white;
+}
 .navbarClour{
     background: #b4267b;
 }
 .boxBorder{
     border-color: #892586;
+}
+input[type="text"][disabled] {
+    color: black;
+    background-color: white;
 }
