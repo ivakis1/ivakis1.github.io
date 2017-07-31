@@ -1,0 +1,26 @@
+.custom-well {
+    background: #d2d2d2;
+}
+
+.btncolour{
+    background: white;
+    color: black;
+    border-color: #892586;
+    font-weight: 700;
+
+}
+
+.btncolour:hover {
+    background: #b4267b;
+    color: white;
+}
+.btncolour2:active{
+    background: #b4267b;
+    color: white;
+}
+.navbarClour{
+    background: #b4267b;
+}
+.boxBorder{
+    border-color: #892586;
+}
