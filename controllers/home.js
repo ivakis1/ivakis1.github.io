@@ -10,7 +10,7 @@ module.exports = {
             'Не искаш да знаеш', 'Със сигурност', 'Определено да', 'Не съм сигурен',
             'Попитай друг път', 'Не разчитай на това', '100% да', 'По-скоро не', 'По-скоро да', '100% не' ];
 
-        let position = Math.ceil(Math.random() * answers.length);
+        let position = Math.ceil(Math.random() * answers.length - 1);
 
         if(question.charAt(question.length - 1) !== '?' && question.length > 0) {
             question += "?";
