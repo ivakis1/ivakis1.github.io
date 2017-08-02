@@ -15,6 +15,7 @@
 .btncolour2:active{
     background-color: #b4267b !important;
     color: white;
+    border-color: #b4267b;
 }
 .boxdisabled{
     background-color: white;
