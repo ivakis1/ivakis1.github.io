@@ -13,7 +13,7 @@
     border-color: #892586;
 }
 .btncolour2:active{
-    background: #b4267b;
+    background-color: #b4267b !important;
     color: white;
 }
 .boxdisabled{
